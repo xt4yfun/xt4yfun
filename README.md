@@ -27,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xt4yfun&" alt="xt4yfun" /></p>
 
+![Snake animation](https://github.com/xt4yfun/xt4yfun/blob/output/github-contribution-grid-snake.svg)
 
