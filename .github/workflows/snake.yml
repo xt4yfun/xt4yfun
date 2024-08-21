@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: xt4yfun # GitHub kullanıcı adınızı buraya girin
-          svg_out_path: dist/output/github-contribution-grid-snake.svg
+          outputs: dist/output/github-contribution-grid-snake.svg
 
       - name: Push generated animation to the repository
         run: |
