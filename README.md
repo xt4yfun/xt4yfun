@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Malatya Turgut Özal University Graduate Information System**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Express JS**
 
 - 👨‍💻 All of my projects are available at [tayfuny.net](tayfuny.net)
 
